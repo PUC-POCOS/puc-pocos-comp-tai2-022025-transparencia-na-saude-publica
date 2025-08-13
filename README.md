@@ -9,7 +9,9 @@ Descreva brevemente o seu projeto. Pode incluir imagens, diagramas ou links para
 - Rafael Leite Firmino - RA: 1493073
 - João Guilherme Magne - RA: 1433565
 - Gustavo Silvestre Mingueti - RA: 1461453
-
+- Nome - RA:
+- Nome - RA:
+  
 ---
 
 ## 🛠️ Tecnologias Utilizadas
