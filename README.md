@@ -82,7 +82,7 @@ npm run test
 
 | Entrega       | Data       | Descrição                              | Status     | Link |
 |---------------|------------|----------------------------------------|------------|------|
-| Entrega 1     | 19/08/2025 | Lean Canvas + Justificativa do Problema | ✅ Entregue | [Ver](./src/entrega1.pdf) |
+| Entrega 1     | 19/08/2025 | Lean Canvas + Justificativa do Problema | ✅ Entregue | [Ver](./docs/entrega1.pdf) |
 | Entrega 2     | 02/09/2025 | Mapa de Empatia + Prototipagem          | 🚧 Em andamento | - |
 
 ### 🧩 Tarefas Pendentes
