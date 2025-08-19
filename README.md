@@ -76,7 +76,7 @@ npm run test
 
 | Data       | Participantes        | Principais Tópicos | Decisões Tomadas | Encaminhamentos |
 |------------|----------------------|--------------------|------------------|-----------------|
-| 05/08/2025 | Nome1, Nome2, Nome3  | Escolha do problema | Validado Canvas | Agendar entrevistas |
+| 05/08/2025 | Rafael L, João G, Caio, Gustavo S, Martha | Escolha do problema | Validado Canvas | Agendar entrevistas |
 
 ### 📦 Entregas
 
